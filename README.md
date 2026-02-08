@@ -1,2 +1,12 @@
-# site-agencia-html-css
-Projeto simples de site de agência desenvolvido com HTML e CSS para fins de estudo.
+# 👨‍💻 Site de Agência - HTML e CSS
+
+Projeto desenvolvido para praticar os fundamentos de desenvolvimento web.
+
+## 💻 Programas utilizadas
+- HTML5
+- CSS
+
+## 📋 Objetivo
+Treinar estruturação de páginas web e estilização básica.
+
+Projeto acadêmico / estudo pessoal.
